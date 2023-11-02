@@ -1,0 +1,7 @@
+pip install forex-python
+pip install pick
+pip install numpy
+pip install keyboard
+pip install pystyle
+pip install win32gui
+pip install discord_webhook
