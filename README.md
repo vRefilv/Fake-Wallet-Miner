@@ -12,5 +12,3 @@ To install modules `pip install -r requirements.txt`
 
 ------------------------Showcase------------------------
 https://youtu.be/UuIS9iG_Ktc?si=gdJcV4108t0mrEJE
-
-Firstly made to scam kids but never used so i decided to publicate it.
